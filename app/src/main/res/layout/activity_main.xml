@@ -27,7 +27,7 @@
                 android:layout_height="match_parent"
                 android:layout_gravity="center_horizontal"
                 android:text="Team A"
-                android:background="@color/teal_200"
+                    android:textColor="@color/white"
                 android:textSize="20dp"
                 android:textStyle="bold" />
 
@@ -95,7 +95,8 @@
                 android:layout_height="match_parent"
                 android:layout_gravity="center_horizontal"
                 android:text="Team B"
-                android:background="@color/teal_200"
+                android:textColor="@color/white"
+
                 android:textSize="20dp"
                 android:textStyle="bold" />
             <TextView
